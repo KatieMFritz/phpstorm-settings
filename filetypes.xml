@@ -5,6 +5,7 @@
       <mapping pattern=".pgpass" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="webmaster@" type="PLAIN_TEXT" />
+      <mapping pattern="post-receive" type="PLAIN_TEXT" />
       <mapping pattern=".my.cnf" type="PLAIN_TEXT" />
       <mapping ext="edu" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
